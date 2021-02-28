@@ -1,0 +1,36 @@
+*{
+    font-size:15px ;
+    font-family: 'RocknRoll One', sans-serif;
+    color:#3c21b7;
+}
+body{
+    background-color: rgb(231, 231, 238);
+}
+
+.container{
+    margin-left: 31%;
+    width:auto;
+}
+header ,footer{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding: 27px 19px;
+    border: 3px solid #cb98ed;
+    border-radius:20px;
+    background-color:#cFcbd2;
+    color:#8d63ed;
+}
+.liste{
+    margin:25px 0;
+}
+#pic{
+    border: 5px solid #8d63ed;
+    border-radius: 30px;
+    height:150px ;
+}
+footer > a{
+    text-decoration: none;
+    text-shadow: 5px 5px 5px #3c21b7;
+    font-size: 20px;
+}
